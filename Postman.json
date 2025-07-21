@@ -1,0 +1,5 @@
+POST /users
+{
+  "id": 1,
+  "name": "Ritesh"
+}

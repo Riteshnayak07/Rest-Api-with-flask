@@ -1,0 +1,4 @@
+PUT /users/1
+{
+  "name": "Ritesh Nayak"
+}
